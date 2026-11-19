@@ -87,6 +87,9 @@ Right now I am going deeper into distributed systems — API gateways, event-dri
 
 <img src="./assets/rule-03.svg" width="100%" alt="Selected work"/>
 
+<p align="center"><sub><b>BACKEND SERVICES</b> &nbsp;·&nbsp; <b>REST APIS</b> &nbsp;·&nbsp; <b>MICROSERVICES</b> &nbsp;·&nbsp; <b>FULL STACK PRODUCTS</b> &nbsp;·&nbsp; <b>FRONTEND INTERFACES</b></sub></p>
+
+<p align="center"><sub><b>MICROSERVICES · CONTROL PLANE · BACKEND ARCHITECTURE</b></sub></p>
 <h3 align="center">GateKeeper — Multi-Tenant API Gateway Control Plane</h3>
 
 <p align="center"><sub><b>Spring Boot · Spring Security · JWT · Spring Data JPA · Hibernate · MySQL · Flyway · Apache Kafka · Docker Compose · Jenkins · JDK 21</b></sub></p>
@@ -124,6 +127,7 @@ A three-service control plane that separates **who may configure an API** from *
 
 <br/>
 
+<p align="center"><sub><b>FULL STACK · MICROSERVICES · SECURITY · AI INTEGRATION</b></sub></p>
 <h3 align="center">CareFlow AI — Healthcare Service Management Platform</h3>
 
 <p align="center"><sub><b>Java 17 · Spring Boot 3.4.5 · Spring Cloud Gateway · Spring Security · Spring Data JPA · Spring AI · PostgreSQL 16 · React 19 · TypeScript · Vite · Tailwind CSS 4 · Docker Compose</b></sub></p>
@@ -162,42 +166,97 @@ A clinic operations platform: patients book, doctors manage availability, admini
 
 <h3 align="center">More Work</h3>
 
+<p align="center"><sub>Full stack products, backend systems and frontend work — each one built to the API, not to a mockup.</sub></p>
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
+<sub><b>FULL STACK · FRONTEND</b></sub>
+
 <a href="https://github.com/Karankumarweb/Librery-Management"><b>Athenaeum</b></a><br/>
 <sub>Library Management System</sub>
 
-<sub>Circulation, reservations, fines, suppliers and analytics — every core library workflow, not a mockup. Client-side state machine, CSV exports, WCAG AA.</sub>
+<sub>Complete circulation workflow: issuing, returns, reservations, fine accounting and supplier management. A validated client-side state machine drives 20 pages, with CSV export and print-ready reports.</sub>
 
 <sub>`HTML` `CSS` `JavaScript`</sub>
 
-<sub><a href="https://karankumarweb.github.io/Librery-Management/">Live demo</a></sub>
+<sub><a href="https://karankumarweb.github.io/Librery-Management/">Live demo →</a></sub>
 
 </td>
 <td width="33%" valign="top" align="center">
+
+<sub><b>BACKEND · CORE JAVA</b></sub>
 
 <a href="https://github.com/Karankumarweb/Student-Placement-Management-System"><b>Placement System</b></a><br/>
 <sub>Student Placement Management</sub>
 
-<sub>Console application in core Java: registration, company search, applications, interview tracking. No framework, no shortcuts.</sub>
+<sub>Console application built on plain OOP — no framework: student registration and login, company search, requirement listings, application workflow and interview tracking.</sub>
 
-<sub>`Java` `OOP`</sub>
+<sub>`Java` `OOP` `Collections`</sub>
 
-<sub><a href="https://github.com/Karankumarweb/Student-Placement-Management-System">Source</a></sub>
+<sub><a href="https://github.com/Karankumarweb/Student-Placement-Management-System">Source →</a></sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Karankumarweb/my-portfolio"><b>Portfolio</b></a><br/>
-<sub>Personal site</sub>
+<sub><b>FRONTEND · PERSONAL BRAND</b></sub>
 
-<sub>Hand-built responsive portfolio with theme switching, project showcases and certifications.</sub>
+<a href="https://github.com/Karankumarweb/my-portfolio"><b>Portfolio</b></a><br/>
+<sub>Personal developer site</sub>
+
+<sub>Hand-built responsive portfolio with theme switching, project showcases and certification galleries — deployed straight from the repository.</sub>
 
 <sub>`HTML` `CSS` `JavaScript`</sub>
 
-<sub><a href="https://karankumarweb.github.io/my-portfolio/">Live demo</a></sub>
+<sub><a href="https://karankumarweb.github.io/my-portfolio/">Live demo →</a></sub>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · UI BUILD</b></sub>
+
+<a href="https://github.com/Karankumarweb/E-CommerceWebsite"><b>E-Commerce Storefront</b></a><br/>
+<sub>Responsive store interface</sub>
+
+<sub>Multi-section storefront UI — hero, featured products, promotional banners and seasonal collections — with an off-canvas mobile navigation built without a framework.</sub>
+
+<sub>`HTML` `CSS` `JavaScript`</sub>
+
+<sub><a href="https://github.com/Karankumarweb/E-CommerceWebsite">Source →</a></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · SEO</b></sub>
+
+<a href="https://github.com/Karankumarweb/Landing-page"><b>Services Landing Page</b></a><br/>
+<sub>Developer services page</sub>
+
+<sub>Scroll-reveal animations via `IntersectionObserver`, semantic sectioning, ARIA labelling and Open Graph metadata for a personal services page.</sub>
+
+<sub>`HTML` `CSS` `JavaScript`</sub>
+
+<sub><a href="https://github.com/Karankumarweb/Landing-page">Source →</a></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · LOGIC</b></sub>
+
+<a href="https://github.com/Karankumarweb/Tic-Tac-Toe-game"><b>Tic-Tac-Toe</b></a><br/>
+<sub>Browser game</sub>
+
+<sub>Two-player game with win and draw detection across eight patterns, input locking after each move and a clean reset cycle — plain DOM, no libraries.</sub>
+
+<sub>`JavaScript` `HTML` `CSS`</sub>
+
+<sub><a href="https://karankumarweb.github.io/Tic-Tac-Toe-game/">Live demo →</a></sub>
 
 </td>
 </tr>
