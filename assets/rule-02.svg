@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="84" viewBox="0 0 1280 84" fill="none" role="img">
+<defs>
+<linearGradient id="l" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="284" y2="0">
+<stop offset="0" stop-color="#1E2430" stop-opacity="0"/><stop offset="1" stop-color="#1E2430"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="996" y1="0" x2="1216" y2="0">
+<stop offset="0" stop-color="#1E2430"/><stop offset="1" stop-color="#1E2430" stop-opacity="0"/></linearGradient>
+</defs>
+<line x1="64" y1="42" x2="284" y2="42" stroke="url(#l)"/>
+<line x1="996" y1="42" x2="1216" y2="42" stroke="url(#r)"/>
+<rect x="278" y="40" width="4" height="4" fill="#F5B23E" transform="rotate(45 280 42)" opacity="0.9"/>
+<rect x="998" y="40" width="4" height="4" fill="#F5B23E" transform="rotate(45 1000 42)" opacity="0.9"/>
+<text x="640" y="46.5" font-family="ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" text-anchor="middle" fill="#8A94A6" letter-spacing="3.4"><tspan fill="#F5B23E" letter-spacing="1.6">02</tspan><tspan fill="#5F6A7D" xml:space="preserve">   —   </tspan><tspan fill="#8A94A6">TECHNICAL STACK</tspan></text>
+</svg>
