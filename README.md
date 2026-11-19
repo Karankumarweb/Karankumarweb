@@ -1,102 +1,42 @@
-<img width="100%" src="banner.png" alt="Karan Kumar — Java Full Stack Developer"/>
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">☕ A passionate Java Full Stack Developer from India</h3>
 <img src="./assets/header.svg" width="100%" alt="Karan Kumar — Java Full Stack Developer"/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankumarweb&label=Profile%20views&color=0e75b6&style=flat" alt="karankumarweb" /> </p>
 <a href="https://www.linkedin.com/in/karan-kumar-564b9022a/"><img src="https://img.shields.io/badge/LinkedIn-0A0C10?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20448%20512%27%3E%3Cpath%20fill%3D%27%23F5B23E%27%20d%3D%27M100.28%20448H7.4V148.9h92.88zM53.79%20108.1C24.09%20108.1%200%2083.5%200%2053.8a53.79%2053.79%200%200%201%20107.58%200c0%2029.7-24.1%2054.3-53.79%2054.3zM447.9%20448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29%200-55.63%2037.8-55.63%2076.8V448h-92.7V148.9h89.08v40.8h1.3c12.4-23.5%2042.69-48.3%2087.88-48.3%2094.28%200%20111.75%2062%20111.75%20142.6z%27%2F%3E%3C%2Fsvg%3E&labelColor=0A0C10" alt="LinkedIn"/></a> <a href="mailto:kk4447058@gmail.com"><img src="https://img.shields.io/badge/Email-0A0C10?style=for-the-badge&logo=gmail&logoColor=F5B23E&labelColor=0A0C10" alt="Email"/></a> <a href="https://github.com/Karankumarweb"><img src="https://img.shields.io/badge/GitHub-0A0C10?style=for-the-badge&logo=github&logoColor=F5B23E&labelColor=0A0C10" alt="GitHub"/></a> <a href="https://www.leetcode.com/kk4447058"><img src="https://img.shields.io/badge/LeetCode-0A0C10?style=for-the-badge&logo=leetcode&logoColor=F5B23E&labelColor=0A0C10" alt="LeetCode"/></a>
 
-- 🔭 I'm currently building **full-stack Java projects — Spring Boot REST APIs + React frontends**
 <br/>
 
-- 🌱 I'm currently learning **Spring Boot Microservices, Hibernate & System Design**
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F5B23E&center=true&vCenter=true&width=800&height=42&lines=Spring+Boot+REST+APIs+that+hold+up+under+load;Microservices+with+gateways%2C+JWT+and+Kafka;React+frontends+wired+to+real+backend+contracts;Clean+architecture%2C+measured+before+optimised" alt="What I do"/>
 
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, JavaScript**
 <br/>
 
-- 📫 How to reach me **kk4447058@gmail.com**
 <img src="https://komarev.com/ghpvc/?username=karankumarweb&label=PROFILE%20VIEWS&color=1E2430&style=flat-square" alt="Profile views"/>
 
-- ⚡ Fun fact **I think I'm funny 😄 — but my code is serious**
 </div>
 
-<br/>
-<br/>
 <img src="./assets/rule-01.svg" width="100%" alt="About"/>
 
-## 🚀 Featured Projects
 <h3 align="center"><sub>Java Full Stack Developer · Bengaluru, India</sub></h3>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🟢 **E-Commerce REST API** — [Repo](https://github.com/Karankumarweb/ecommerce-backend) | Production-style backend: JWT auth, role-based access, product catalogue, orders with stock management | `Java` `Spring Boot` `JPA/Hibernate` `JWT` `MySQL` `Maven` |
-| 🛒 **E-Commerce Website** — [Repo](https://github.com/Karankumarweb/E-CommerceWebsite) | Multi-page responsive e-commerce front-end (shop, cart, blog, about, contact) | `HTML` `CSS` `JavaScript` |
-| 🚀 **Landing Page** — [Repo](https://github.com/Karankumarweb/Landing-page) | Modern responsive landing page — scroll animations, ARIA accessibility, SEO | `HTML` `CSS` `JavaScript` |
-| ❌⭕ **Tic-Tac-Toe** — [Repo](https://github.com/Karankumarweb/Tic-Tac-Toe-game) · [Live](https://karankumarweb.github.io/Tic-Tac-Toe-game/) | Two-player browser game with winner & draw detection | `JavaScript` `HTML` `CSS` |
-| 💼 **Portfolio** — [Repo](https://github.com/Karankumarweb/portfolio-website) | My personal developer portfolio | `HTML` `CSS` `JavaScript` |
 <p align="center">
 I build the part of the product most people never see — the API layer, the domain model, the transactional boundaries — and then I build the interface that proves it works.
 </p>
 
-*The REST API + the E-Commerce Website together form a complete full-stack application.*
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<br/>
 **The backend is where I think.** My work centres on Java and Spring Boot: designing REST contracts, modelling relational schemas with Spring Data JPA and Hibernate, enforcing role-based access with Spring Security and JWT, and keeping service boundaries honest. I care about what happens at the edges — validation, failure paths, idempotency, transaction behaviour — because that is where real applications break.
 
-## 🛠️ Tech Stack
-
-<h3 align="left">☕ Backend:</h3>
-<div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge"/>
-  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</div>
 </td>
 <td width="50%" valign="top">
 
-<h3 align="left">🌐 Frontend:</h3>
-<div align="left">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
 **Then I make it usable.** On the frontend I work with React, TypeScript, Vite and Tailwind CSS, consuming the APIs I wrote rather than mocking them. I like owning a feature end to end: schema, service, endpoint, interface, deploy.
 
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="H2" src="https://img.shields.io/badge/H2-0F172A?style=for-the-badge"/>
-</div>
 Right now I am going deeper into distributed systems — API gateways, event-driven configuration, caching and observability — and sharpening data structures and algorithms in Java, daily.
 
-<h3 align="left">🧰 Tools & Languages:</h3>
-<div align="left">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</div>
 </td>
 </tr>
 </table>
@@ -147,6 +87,9 @@ Right now I am going deeper into distributed systems — API gateways, event-dri
 
 <img src="./assets/rule-03.svg" width="100%" alt="Selected work"/>
 
+<p align="center"><sub><b>BACKEND SERVICES</b> &nbsp;·&nbsp; <b>REST APIS</b> &nbsp;·&nbsp; <b>MICROSERVICES</b> &nbsp;·&nbsp; <b>FULL STACK PRODUCTS</b> &nbsp;·&nbsp; <b>FRONTEND INTERFACES</b></sub></p>
+
+<p align="center"><sub><b>MICROSERVICES · CONTROL PLANE · BACKEND ARCHITECTURE</b></sub></p>
 <h3 align="center">GateKeeper — Multi-Tenant API Gateway Control Plane</h3>
 
 <p align="center"><sub><b>Spring Boot · Spring Security · JWT · Spring Data JPA · Hibernate · MySQL · Flyway · Apache Kafka · Docker Compose · Jenkins · JDK 21</b></sub></p>
@@ -184,14 +127,9 @@ A three-service control plane that separates **who may configure an API** from *
 
 <br/>
 
-## 🎯 Problem Solving & Coding Profiles
+<p align="center"><sub><b>FULL STACK · MICROSERVICES · SECURITY · AI INTEGRATION</b></sub></p>
 <h3 align="center">CareFlow AI — Healthcare Service Management Platform</h3>
 
-<div align="left">
-  <a href="https://www.leetcode.com/kk4447058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode — kk4447058" height="40" width="50"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/kk444j63s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks — kk444j63s" height="40" width="50"/></a>
-  <b>DSA in Java — arrays, strings, linked lists, trees, recursion & dynamic programming</b>
-</div>
 <p align="center"><sub><b>Java 17 · Spring Boot 3.4.5 · Spring Cloud Gateway · Spring Security · Spring Data JPA · Spring AI · PostgreSQL 16 · React 19 · TypeScript · Vite · Tailwind CSS 4 · Docker Compose</b></sub></p>
 
 A clinic operations platform: patients book, doctors manage availability, administrators oversee the network — with an AI assistant that stays non-diagnostic and redacts PII before any model call.
@@ -226,49 +164,99 @@ A clinic operations platform: patients book, doctors manage availability, admini
 
 <br/>
 
-<h3 align="left">📊 GitHub Activity:</h3>
 <h3 align="center">More Work</h3>
 
+<p align="center"><sub>Full stack products, backend systems and frontend work — each one built to the API, not to a mockup.</sub></p>
+
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karankumarweb&show_icons=true&theme=dark&locale=en" alt="karankumarweb" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karankumarweb&show_icons=true&theme=dark&locale=en&layout=compact" alt="karankumarweb" /></td>
-  </tr>
 <tr>
 <td width="33%" valign="top" align="center">
+
+<sub><b>FULL STACK · FRONTEND</b></sub>
 
 <a href="https://github.com/Karankumarweb/Librery-Management"><b>Athenaeum</b></a><br/>
 <sub>Library Management System</sub>
 
-<sub>Circulation, reservations, fines, suppliers and analytics — every core library workflow, not a mockup. Client-side state machine, CSV exports, WCAG AA.</sub>
+<sub>Complete circulation workflow: issuing, returns, reservations, fine accounting and supplier management. A validated client-side state machine drives 20 pages, with CSV export and print-ready reports.</sub>
 
 <sub>`HTML` `CSS` `JavaScript`</sub>
 
-<sub><a href="https://karankumarweb.github.io/Librery-Management/">Live demo</a></sub>
+<sub><a href="https://karankumarweb.github.io/Librery-Management/">Live demo →</a></sub>
 
 </td>
 <td width="33%" valign="top" align="center">
+
+<sub><b>BACKEND · CORE JAVA</b></sub>
 
 <a href="https://github.com/Karankumarweb/Student-Placement-Management-System"><b>Placement System</b></a><br/>
 <sub>Student Placement Management</sub>
 
-<sub>Console application in core Java: registration, company search, applications, interview tracking. No framework, no shortcuts.</sub>
+<sub>Console application built on plain OOP — no framework: student registration and login, company search, requirement listings, application workflow and interview tracking.</sub>
 
-<sub>`Java` `OOP`</sub>
+<sub>`Java` `OOP` `Collections`</sub>
 
-<sub><a href="https://github.com/Karankumarweb/Student-Placement-Management-System">Source</a></sub>
+<sub><a href="https://github.com/Karankumarweb/Student-Placement-Management-System">Source →</a></sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Karankumarweb/my-portfolio"><b>Portfolio</b></a><br/>
-<sub>Personal site</sub>
+<sub><b>FRONTEND · PERSONAL BRAND</b></sub>
 
-<sub>Hand-built responsive portfolio with theme switching, project showcases and certifications.</sub>
+<a href="https://github.com/Karankumarweb/my-portfolio"><b>Portfolio</b></a><br/>
+<sub>Personal developer site</sub>
+
+<sub>Hand-built responsive portfolio with theme switching, project showcases and certification galleries — deployed straight from the repository.</sub>
 
 <sub>`HTML` `CSS` `JavaScript`</sub>
 
-<sub><a href="https://karankumarweb.github.io/my-portfolio/">Live demo</a></sub>
+<sub><a href="https://karankumarweb.github.io/my-portfolio/">Live demo →</a></sub>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · UI BUILD</b></sub>
+
+<a href="https://github.com/Karankumarweb/E-CommerceWebsite"><b>E-Commerce Storefront</b></a><br/>
+<sub>Responsive store interface</sub>
+
+<sub>Multi-section storefront UI — hero, featured products, promotional banners and seasonal collections — with an off-canvas mobile navigation built without a framework.</sub>
+
+<sub>`HTML` `CSS` `JavaScript`</sub>
+
+<sub><a href="https://github.com/Karankumarweb/E-CommerceWebsite">Source →</a></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · SEO</b></sub>
+
+<a href="https://github.com/Karankumarweb/Landing-page"><b>Services Landing Page</b></a><br/>
+<sub>Developer services page</sub>
+
+<sub>Scroll-reveal animations via `IntersectionObserver`, semantic sectioning, ARIA labelling and Open Graph metadata for a personal services page.</sub>
+
+<sub>`HTML` `CSS` `JavaScript`</sub>
+
+<sub><a href="https://github.com/Karankumarweb/Landing-page">Source →</a></sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<sub><b>FRONTEND · LOGIC</b></sub>
+
+<a href="https://github.com/Karankumarweb/Tic-Tac-Toe-game"><b>Tic-Tac-Toe</b></a><br/>
+<sub>Browser game</sub>
+
+<sub>Two-player game with win and draw detection across eight patterns, input locking after each move and a clean reset cycle — plain DOM, no libraries.</sub>
+
+<sub>`JavaScript` `HTML` `CSS`</sub>
+
+<sub><a href="https://karankumarweb.github.io/Tic-Tac-Toe-game/">Live demo →</a></sub>
 
 </td>
 </tr>
@@ -277,19 +265,11 @@ A clinic operations platform: patients book, doctors manage availability, admini
 <img src="./assets/rule-04.svg" width="100%" alt="Engineering signal"/>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankumarweb&theme=dark" alt="karankumarweb" /></p>
-</div>
 
 <a href="https://github.com/Karankumarweb"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=karankumarweb&show_icons=true&hide_border=true&bg_color=0A0C10&title_color=F5B23E&icon_color=F5B23E&text_color=E9EEF6&include_all_commits=true&count_private=true" alt="GitHub statistics"/></a><a href="https://github.com/Karankumarweb"><img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankumarweb&layout=compact&hide_border=true&bg_color=0A0C10&title_color=F5B23E&text_color=E9EEF6&langs_count=8&hide=html,css" alt="Most used languages"/></a>
 
 <br/>
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/karan-kumar-564b9022a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kk4447058@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/karan___kr___"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/karankumar1234567"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://git.io/streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=karankumarweb&hide_border=true&background=0A0C10&stroke=1E2430&ring=F5B23E&fire=F5B23E&currStreakNum=E9EEF6&currStreakLabel=F5B23E&sideNums=E9EEF6&sideLabels=8A94A6&dates=5F6A7D&border_radius=6" alt="GitHub streak"/></a><a href="https://github.com/Karankumarweb"><img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karankumarweb&theme=github_dark&utcOffset=5.5" alt="Productive time"/></a>
 
 <br/>
@@ -331,10 +311,8 @@ A clinic operations platform: patients book, doctors manage availability, admini
 
 <br/>
 
----
 <img src="./assets/closing.svg" width="100%" alt="Contact"/>
 
-⭐️ From [Karankumarweb](https://github.com/Karankumarweb)
 <div align="center">
 
 <a href="https://www.linkedin.com/in/karan-kumar-564b9022a/"><img src="https://img.shields.io/badge/LinkedIn-0A0C10?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20448%20512%27%3E%3Cpath%20fill%3D%27%23F5B23E%27%20d%3D%27M100.28%20448H7.4V148.9h92.88zM53.79%20108.1C24.09%20108.1%200%2083.5%200%2053.8a53.79%2053.79%200%200%201%20107.58%200c0%2029.7-24.1%2054.3-53.79%2054.3zM447.9%20448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29%200-55.63%2037.8-55.63%2076.8V448h-92.7V148.9h89.08v40.8h1.3c12.4-23.5%2042.69-48.3%2087.88-48.3%2094.28%200%20111.75%2062%20111.75%20142.6z%27%2F%3E%3C%2Fsvg%3E" alt="LinkedIn"/></a> <a href="mailto:kk4447058@gmail.com"><img src="https://img.shields.io/badge/kk4447058@gmail.com-0A0C10?style=for-the-badge&logo=gmail&logoColor=F5B23E" alt="Email"/></a> <a href="https://github.com/Karankumarweb"><img src="https://img.shields.io/badge/GitHub-0A0C10?style=for-the-badge&logo=github&logoColor=F5B23E" alt="GitHub"/></a> <a href="https://www.leetcode.com/kk4447058"><img src="https://img.shields.io/badge/LeetCode-0A0C10?style=for-the-badge&logo=leetcode&logoColor=F5B23E" alt="LeetCode"/></a>
